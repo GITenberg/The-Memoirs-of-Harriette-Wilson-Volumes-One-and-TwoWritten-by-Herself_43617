@@ -1,0 +1,35 @@
+_repo: The-Memoirs-of-Harriette-Wilson-Volumes-One-and-TwoWritten-by-Herself_43617
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilson, Harriette
+    aliases:
+    - Wilson, Henriette
+    - Rochfort, Harriette
+    - Wilson, Harriet
+    - Dubochet, Harriette
+    - Dubouchet, Harriette
+    birthdate: 1786
+    deathdate: 1846
+    gutenberg_agent_id: '42327'
+    url: http://www.gutenberg.org/2009/agents/42327
+description: ''
+gutenberg_issued: '2013-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43617'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Wilson, Harriette, 1786-1846'
+- !lcsh 'Courtesans -- Great Britain -- Biography'
+title: 'The Memoirs of Harriette Wilson, Volumes One and Two
+
+  Written by Herself'
+url: http://www.gutenberg.org/ebooks/43617
