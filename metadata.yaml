@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '42327'
     url: http://www.gutenberg.org/2009/agents/42327
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43617#The-Memoirs-of-Harriette-Wilson-Volumes-One-and-TwoWritten-by-Herself
 gutenberg_issued: '2013-09-01'
 gutenberg_type: Text
 identifiers:
